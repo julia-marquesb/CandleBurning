@@ -745,7 +745,7 @@ body {
 
 
 .head_img_about{
-  background-image: url("./images/about-us-header.jpg");
+  background-image: url('images/about-us-header.jpg');
   background-size: cover;
   background-position: 3% 67%;
   height: 25vw; 
