@@ -893,6 +893,44 @@ height: 348px;
   opacity: 2;
 }
 
+/* style mobile device */
+@media only screen and (max-width: 600px) {
+
+  .about_content h2,
+  .craft_title h2 {
+      text-align: center;
+  }
+  .about_section, #craft {
+      display: flex;
+      flex-direction: column;
+      padding: 2em;
+  }
+
+  .about_content {
+      width:100%;
+      margin: 1em;
+  }
+
+  .about-img {
+      width:100%;
+  }
+
+
+  /* #craft section */
+  .craft_img img {
+      width:25vw;
+  }
+  .craft_title {
+      width: 100%;
+      margin: 1em;
+  }
+
+  /* blender contents */
+  .blender_content {
+      padding:2em;
+  }
+
+}
 
 
 
