@@ -2,6 +2,7 @@
 
 ### Overview
 Candle Burning is a beautifully designed website dedicated to handcrafted candles that bring warmth, ambiance, and luxury to any space. This online platform showcases a variety of artisanal candles made with high-quality, eco-friendly materials and unique scents.
+Check our website here 👉 [https://julia-marquesb.github.io/CandleBurning/]
 
 ### Features
 - Elegant and responsive web design.
